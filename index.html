@@ -2,22 +2,34 @@
 layout: default
 ---
 
-<div class="home">
+<div class="jumbotron">
+  <h1>Hello, world!</h1>
+  <p>put a big picture of baby here</p>
+</div>
 
-  <h1 class="page-heading">Posts</h1>
+<div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    {% for post in site.posts reversed %}
+    {% if forloop.index == 0 %}
+    <li role="presentation" class="active"><a href="#{{ post.slug }}" aria-controls="home" role="tab" data-toggle="tab">{{ post.title }}</a></li>
+    {% else %}
+    <li role="presentation"><a href="#{{ post.slug }}" aria-controls="home" role="tab" data-toggle="tab">{{ post.title }}</a></li>
+    {% endif %}
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    {% for post in site.posts reversed %}
+    {% if forloop.index == 0 %}
+    <div role="tabpanel" class="tab-pane active" id="{{ post.slug }}">{{ post.content }}</div>
+    {% else %}
+    <div role="tabpanel" class="tab-pane" id="{{ post.slug }}">{{ post.content }}</div>
+    {% endif %}
+    {% endfor %}
+  </div>
 
 </div>
+
