@@ -18,10 +18,7 @@ And it comes with free shows and movies that you can stream, either as you veg t
 ## Diaper bag
 
 Get the bag, the stuff, and put it in your car or by the door.  Did you know that even with a perfect, healthy baby you're asked to come see the Pediatrician only a day or two after you get home?  And even without the Pediatrician, once Baby arrives, the diaper bag should be a constant companion for even the shortest outings -- you never know when plans change.  
-
-### The Diaper Bag
-
-The bag itself!  You're going to be bombarded with cute diaper bags, and there are many out there.  However, think about what you are reallylooking for.  Something light -- you will carry it a lot.  Something with LOTS of pockets ÎíÎñ you'll often be in a rush, by yourself, and organization will be everything.  Something fairly soft -- you will smoosh it into strollers, back seats, and under restaurant tables.  Because of this, our choice is actually a bag that's not sold as a diaper bag per se, but is really a well-designed gym bag, and is cheaper than a lot of the diaper bag options out there.  A place for everything, and everything in its place.
+{% include item.html heading="The Diaper Bag" text="The bag itself!  You're going to be bombarded with cute diaper bags, and there are many out there.  However, think about what you are reallylooking for.  Something light -- you will carry it a lot.  Something with LOTS of pockets ÎíÎñ you'll often be in a rush, by yourself, and organization will be everything.  Something fairly soft -- you will smoosh it into strollers, back seats, and under restaurant tables.  Because of this, our choice is actually a bag that's not sold as a diaper bag per se, but is really a well-designed gym bag, and is cheaper than a lot of the diaper bag options out there.  A place for everything, and everything in its place." %}
 
 {% include item.html heading="Diapers" text="We've had a great experience with Pampers Swaddlers, which is what our hospital used as well.  We also tried Huggies Naturals, but those ended up leaking every time we used them.  We've never tried cloth diapers, but don't forget that the option exists, and diaper laundering services have sprung up." %}
 

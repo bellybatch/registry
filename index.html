@@ -25,9 +25,9 @@ layout: default
   <div class="tab-content">
     {% for post in site.posts reversed %}
     {% if forloop.index == 1 %}
-    <article role="tabpanel" class="tab-pane active" id="{{ post.slug }}">{{ post.content }}</article>
+    <article role="tabpanel" class="tab-pane active container-fluid" id="{{ post.slug }}">{{ post.content }}</article>
     {% else %}
-    <article role="tabpanel" class="tab-pane" id="{{ post.slug }}">{{ post.content }}</article>
+    <article role="tabpanel" class="tab-pane container-fluid" id="{{ post.slug }}">{{ post.content }}</article>
     {% endif %}
     {% endfor %}
   </div>
