@@ -7,12 +7,13 @@ layout: default
   <p>put a big picture of baby here</p>
 </div>
 
-<div>
+<div class="crumbs">
 
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
     {% for post in site.posts reversed %}
-    {% if forloop.index == 0 %}
+
+    {% if forloop.index == 1 %}
     <li role="presentation" class="active"><a href="#{{ post.slug }}" aria-controls="home" role="tab" data-toggle="tab">{{ post.title }}</a></li>
     {% else %}
     <li role="presentation"><a href="#{{ post.slug }}" aria-controls="home" role="tab" data-toggle="tab">{{ post.title }}</a></li>
@@ -23,10 +24,10 @@ layout: default
   <!-- Tab panes -->
   <div class="tab-content">
     {% for post in site.posts reversed %}
-    {% if forloop.index == 0 %}
-    <div role="tabpanel" class="tab-pane active" id="{{ post.slug }}">{{ post.content }}</div>
+    {% if forloop.index == 1 %}
+    <article role="tabpanel" class="tab-pane active" id="{{ post.slug }}">{{ post.content }}</article>
     {% else %}
-    <div role="tabpanel" class="tab-pane" id="{{ post.slug }}">{{ post.content }}</div>
+    <article role="tabpanel" class="tab-pane" id="{{ post.slug }}">{{ post.content }}</article>
     {% endif %}
     {% endfor %}
   </div>

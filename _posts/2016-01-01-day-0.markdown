@@ -23,100 +23,56 @@ Get the bag, the stuff, and put it in your car or by the door.  Did you know tha
 
 The bag itself!  You're going to be bombarded with cute diaper bags, and there are many out there.  However, think about what you are reallylooking for.  Something light -- you will carry it a lot.  Something with LOTS of pockets ÎíÎñ you'll often be in a rush, by yourself, and organization will be everything.  Something fairly soft -- you will smoosh it into strollers, back seats, and under restaurant tables.  Because of this, our choice is actually a bag that's not sold as a diaper bag per se, but is really a well-designed gym bag, and is cheaper than a lot of the diaper bag options out there.  A place for everything, and everything in its place.
 
-### Diapers
+{% include item.html heading="Diapers" text="We've had a great experience with Pampers Swaddlers, which is what our hospital used as well.  We also tried Huggies Naturals, but those ended up leaking every time we used them.  We've never tried cloth diapers, but don't forget that the option exists, and diaper laundering services have sprung up." %}
 
-We've had a great experience with Pampers Swaddlers, which is what our hospital used as well.  We also tried Huggies Naturals, but those ended up leaking every time we used them.  We've never tried cloth diapers, but don't forget that the option exists, and diaper laundering services have sprung up.
 
-### Wipes
+{% include item.html heading="Wipes" text="Lots of options out there, from some great brands.  We were looking for something for a baby with very sensitive skin, and went with a friend's recommendation for WaterWipes." %}
 
-Lots of options out there, from some great brands.  We were looking for something for a baby with very sensitive skin, and went with a friend's recommendation for WaterWipes.
+{% include item.html heading="Tissues" text="Yes, such as plain Kleenex, or any other option without lotion.   If you remember just one thing from this website, let it be this -- dab dry that baby before putting a new diaper on!  The best wiping job that leaves some moisture on the baby may lead to a rash.  Dab, dab, dab!" %}
 
-### Tissues
+{% include item.html heading="Tushy cream" text="Don't wait until your baby gets a rash.  Just rub a bit of this stuff on the tushy to prevent redness, swelling, irritation, tears, and GUILT in the first place.  We tried several options, but like this brand in particular for lack of smell, good consistency, and results." %}
 
-Yes, such as plain Kleenex, or any other option without lotion.   If you remember just one thing from this website, let it be this -- dab dry that baby before putting a new diaper on!  The best wiping job that leaves some moisture on the baby may lead to a rash.  Dab, dab, dab!
+{% include item.html heading="Gloves" text="Whatever uses you're picturing right now, many of them will likely come true.  Sometimes a mess is too much to clean without them.  Sometimes you're putting Orajel on teething gums and there isn't a place to wash your hands. " %}
 
-### Tushy cream
+{% include item.html heading="Dirty diaper bags" text="The ones for babies are way too expensive to serve as the momentary receptacle of poop!  Find whatever you prefer, but we just got these ones meant for furry babies. " %}
 
-Don't wait until your baby gets a rash.  Just rub a bit of this stuff on the tushy to prevent redness, swelling, irritation, tears, and GUILT in the first place.  We tried several options, but like this brand in particular for lack of smell, good consistency, and results.
+{% include item.html heading="Portable changing pad" text="So great for changing while out and about.  If you have an SUV, during warm weather the trunk makes the best changing station while out and about. " %}
 
-### Gloves
+{% include item.html heading="Large disposable pad" text="Have you seen some of those public changing stations?  Gross.  " %}
 
-Whatever uses you're picturing right now, many of them will likely come true.  Sometimes a mess is too much to clean without them.  Sometimes you're putting Orajel on teething gums and there isn't a place to wash your hands. 
+{% include item.html heading="Small disposable pads" text="We like to lay these on the portable pad, because mid-change peeing is a thing." %}
 
-### Dirty diaper bags
+{% include item.html heading="Extra outfit" text="Especially at the beginning, or when your baby is between diaper sizes, or when the weather is changing, you may want to bring multiple outfits." %}
 
-The ones for babies are way too expensive to serve as the momentary receptacle of poop!  Find whatever you prefer, but we just got these ones meant for furry babies. 
+{% include item.html heading="Blanket" text="You will find that there is no such thing as too many blankets at the beginning.  You'll need it to lay baby down on something homey and clean, to shade them from the sun, to wrap them between weighing and doc visit at the pediatrician's office, to provide a burp cloth, and the list goes on. " %}
 
-### Portable changing pad
+{% include item.html heading="Pacifiers" text="You'll have to decide if, when, and which to introduce to your baby.  Some Moms prefer to not try at all, or at least not during the first few weeks if breastfeeding, to avoid nipple confusion.  Some Moms prefer to give these hospital standard pacifiers, which are great for the ease of cleaning -- every nook and cranny can be cleaned and dried easily.  In our case, we went with the Maam variety,simply because that is the only one our Baby took to." %}
 
-So great for changing while out and about.  If you have an SUV, during warm weather the trunk makes the best changing station while out and about. 
+{% include item.html heading="Nose frieda" text="Babies tend to hate this, but there's nothing better for helping your Baby breathe when that little nose is stuffy.  Just don't forget to get extra filters! " %}
 
-### Large disposable pad
+{% include item.html heading="Nail clippers" text="Maybe you don't want to keep them in your diaper bag, but you never know when you may need them.  At the beginning, don't cut your Baby's nails -- their nails aren't yet separated from their fingers.  During the first few weeks, just use an emory board to file the nails.  Once Baby is a bit older, clippers and scissors are both options.  We liked the scissors better, for more control, but own and often try both.  " %}
 
-Have you seen some of those public changing stations?  Gross.  
+{% include item.html heading="Ziplock bags" text="To help you sort and organize all the items in the bag, and to protect the bag from getting dirty from things like tushy paste." %}
 
-### Small disposable pads
+{% include item.html heading="List of things in bag" text="This may sound silly, but write down a list of everything you like to have in your diaper bag, and keep it in one of the easily accessible pockets.  but you're going to mess up that bag every day, and take things in and out of it.  When you're tired and have zero time to spare, a checklist makes life easy. " %}
 
-We like to lay these on the portable pad, because mid-change peeing is a thing.
+{% include item.html heading="Emergency contacts" text="We hope you never, ever have to use this, but give your tired brain peace of mind -- have an easily accessbile list of emergency contacts in the bag for when you're out or when someone else is watching your baby on the go." %}
 
-### Extra outfit
+{% include item.html heading="Breastfeeding pads" text="There are some things you will want to keep in the diaper bag for yourself.  If you're breastfeeding, it's a good idea to keep a few of these handy if you forgot one or need a change. " %}
 
-Especially at the beginning, or when your baby is between diaper sizes, or when the weather is changing, you may want to bring multiple outfits.
+{% include item.html heading="Vaseline" text="This is especially important if you have a circumcised newborn Baby boy.  We found that the large tubs get messy and are inconvenient; the little packets make portability and application far easier." %}
 
-### Blanket
+{% include item.html heading="Car seat" text="We are not specialists in which ones to buy.  This is a large ticket item, and a longer commitment.  In our case, we just went with one of the highest rated ones by safety metrics." %}
 
-You will find that there is no such thing as too many blankets at the beginning.  You'll need it to lay baby down on something homey and clean, to shade them from the sun, to wrap them between weighing and doc visit at the pediatrician's office, to provide a burp cloth, and the list goes on. 
-
-### Pacifiers
-
-You'll have to decide if, when, and which to introduce to your baby.  Some Moms prefer to not try at all, or at least not during the first few weeks if breastfeeding, to avoid nipple confusion.  Some Moms prefer to give these hospital standard pacifiers, which are great for the ease of cleaning -- every nook and cranny can be cleaned and dried easily.  In our case, we went with the Maam variety,simply because that is the only one our Baby took to.
-
-### Nose frieda
-
-Babies tend to hate this, but there's nothing better for helping your Baby breathe when that little nose is stuffy.  Just don't forget to get extra filters! 
-
-### Nail clippers
-
-Maybe you don't want to keep them in your diaper bag, but you never know when you may need them.  At the beginning, don't cut your Baby's nails -- their nails aren't yet separated from their fingers.  During the first few weeks, just use an emory board to file the nails.  Once Baby is a bit older, clippers and scissors are both options.  We liked the scissors better, for more control, but own and often try both.  
-
-### Ziplock bags
-
-To help you sort and organize all the items in the bag, and to protect the bag from getting dirty from things like tushy paste.
-
-### List of things in bag
-
-This may sound silly, but write down a list of everything you like to have in your diaper bag, and keep it in one of the easily accessible pockets.  but you're going to mess up that bag every day, and take things in and out of it.  When you're tired and have zero time to spare, a checklist makes life easy. 
-
-### Emergency contacts
-
-We hope you never, ever have to use this, but give your tired brain peace of mind -- have an easily accessbile list of emergency contacts in the bag for when you're out or when someone else is watching your baby on the go.
-
-### Breastfeeding pads
-
-There are some things you will want to keep in the diaper bag for yourself.  If you're breastfeeding, it's a good idea to keep a few of these handy if you forgot one or need a change. 
-
-### Vaseline
-
-This is especially important if you have a circumcised newborn Baby boy.  We found that the large tubs get messy and are inconvenient; the little packets make portability and application far easier.
-
-## Car seat
-
-We are not specialists in which ones to buy.  This is a large ticket item, and a longer commitment.  In our case, we just went with one of the highest rated ones by safety metrics.
-
-## Stroller
-
-Another big ticket item.  Once we knew which car seat we wanted, we chose a stroller system to go with it.  That being said, many strollers are compatible ÎíÎñ either with or without an attachment -- with the top car seats.  A few other considerations would include:
+{% include item.html heading="Stroller" text="Another big ticket item.  Once we knew which car seat we wanted, we chose a stroller system to go with it.  That being said, many strollers are compatible -- either with or without an attachment -- with the top car seats.  A few other considerations would include: 
 
 * Are you going to be running with your stroller?
 * Are you going to go for long walks? Maybe pneumatic (air-filled) tires are the way to go.
-* Will you often drive your stroller around? If so, portability is key.
+* Will you often drive your stroller around? If so, portability is key." %}
 
-## Going home outfit for baby
+{% include item.html heading="Going home outfit for baby" text="Have a ton of fun with this one :-). Chances are, your Baby will really only wear this once.  Make sure it's appropriate for the car seat and the weather, and get some good photos." %}
 
-Have a ton of fun with this one :-). Chances are, your Baby will really only wear this once.  Make sure it's appropriate for the car seat and the weather, and get some good photos.
-
-## Nursery
-
-* Furniture -- the possibilities are endless. A trip to a furniture store or two will help you decide on colors, dimensions, and storage options.  
+{% include item.html heading="Nursery" text="* Furniture -- the possibilities are endless. A trip to a furniture store or two will help you decide on colors, dimensions, and storage options.  
 * Decorations -- we didn't mess around much with things like wall colors, but we had a great time with decals!  Decals are basically big stickers for your walls, furniture, or anything else.  
-* See also our Change Baby section, and depending on whether/where you will be pumping, our Pumping section.
+* See also our Change Baby section, and depending on whether/where you will be pumping, our Pumping section." %}
+
