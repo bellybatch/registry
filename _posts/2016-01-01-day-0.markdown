@@ -3,6 +3,8 @@ layout: post
 title: Day 0
 ---
 
+# Day 0
+
 Before Baby even shows up, do yourself a huge favor and prepare a few essentials that you're going to need sooner than you probably think.  You'll also get some key things done that will make you feel in control and able to focus on other things, like whatever it is that makes your particular pregnancy feel easier. 
 
 ## Sign up for Amazon Prime
@@ -59,17 +61,26 @@ Get the bag, the stuff, and put it in your car or by the door.  Did you know tha
 
 {% include item.html heading="Vaseline" text="This is especially important if you have a circumcised newborn Baby boy.  We found that the large tubs get messy and are inconvenient; the little packets make portability and application far easier." %}
 
-{% include item.html heading="Car seat" text="We are not specialists in which ones to buy.  This is a large ticket item, and a longer commitment.  In our case, we just went with one of the highest rated ones by safety metrics." %}
+## Car seat
 
-{% include item.html heading="Stroller" text="Another big ticket item.  Once we knew which car seat we wanted, we chose a stroller system to go with it.  That being said, many strollers are compatible -- either with or without an attachment -- with the top car seats.  A few other considerations would include: 
+We are not specialists in which ones to buy.  This is a large ticket item, and a longer commitment.  In our case, we just went with one of the highest rated ones by safety metrics.
+
+## Stroller
+
+Another big ticket item.  Once we knew which car seat we wanted, we chose a stroller system to go with it.  That being said, many strollers are compatible -- either with or without an attachment -- with the top car seats.  A few other considerations would include: 
 
 * Are you going to be running with your stroller?
 * Are you going to go for long walks? Maybe pneumatic (air-filled) tires are the way to go.
-* Will you often drive your stroller around? If so, portability is key." %}
+* Will you often drive your stroller around? If so, portability is key.
 
-{% include item.html heading="Going home outfit for baby" text="Have a ton of fun with this one :-). Chances are, your Baby will really only wear this once.  Make sure it's appropriate for the car seat and the weather, and get some good photos." %}
+## Going home outfit for baby
 
-{% include item.html heading="Nursery" text="* Furniture -- the possibilities are endless. A trip to a furniture store or two will help you decide on colors, dimensions, and storage options.  
+Have a ton of fun with this one :-). Chances are, your Baby will really only wear this once.  Make sure it's appropriate for the car seat and the weather, and get some good photos.
+
+## Nursery
+
+* Furniture -- the possibilities are endless. A trip to a furniture store or two will help you decide on colors, dimensions, and storage options.  
 * Decorations -- we didn't mess around much with things like wall colors, but we had a great time with decals!  Decals are basically big stickers for your walls, furniture, or anything else.  
-* See also our Change Baby section, and depending on whether/where you will be pumping, our Pumping section." %}
+* See also our Change Baby section, and depending on whether/where you will be pumping, our Pumping section.
+
 
